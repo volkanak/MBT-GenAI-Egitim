@@ -1,0 +1,8 @@
+node_modules/
+dist/
+bin/
+obj/
+*.tsbuildinfo
+.ipynb_checkpoints/
+__pycache__/
+.env

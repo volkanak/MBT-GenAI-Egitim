@@ -1,0 +1,86 @@
+[
+  {
+    "id": "DOK-01",
+    "baslik": "Satın Alma Onay Yetkileri Politikası",
+    "departman": "Finans",
+    "konular": ["satın alma", "onay yetkisi", "bütçe"],
+    "metin": "Atlas Teknoloji A.Ş.'de tüm satın alma talepleri tutara göre kademeli onaydan geçer. 50.000 TL'ye kadar olan talepleri ilgili departman müdürü onaylar. 50.000 TL ile 500.000 TL arasındaki talepler için departman müdürüne ek olarak Finans Müdürü onayı gerekir. 500.000 TL ile 2.000.000 TL arasındaki talepleri Genel Müdür Yardımcısı (CFO) onaylar. 2.000.000 TL üzerindeki tüm talepler Genel Müdür onayına ve yönetim kurulu bilgilendirmesine tabidir. Bütçede yer almayan harcamalar tutarından bağımsız olarak Finans Müdürü onayı gerektirir. Talepler satın alma portalından açılır; onay süresi standart olarak 3 iş günüdür. Acil durumlarda talep 'acil' olarak işaretlenebilir ancak gerekçe zorunludur."
+  },
+  {
+    "id": "DOK-02",
+    "baslik": "Tedarikçi Değerlendirme ve Seçim Prosedürü",
+    "departman": "Satın Alma",
+    "konular": ["tedarikçi", "satın alma", "risk"],
+    "metin": "Yeni bir tedarikçi ile çalışmaya başlamadan önce tedarikçi değerlendirme formu doldurulur. Değerlendirme beş kriterden oluşur: finansal sağlık (yüzde 30), kalite ve sertifikalar (yüzde 25), teslimat performansı (yüzde 20), fiyat (yüzde 15) ve bilgi güvenliği uyumu (yüzde 10). 100 üzerinden 70 puanın altında kalan tedarikçilerle çalışılamaz. 500.000 TL üzerindeki alımlarda en az üç tedarikçiden teklif alınması zorunludur. Kişisel veri işleyecek tedarikçiler için ayrıca KVKK veri işleme sözleşmesi imzalanır. Tedarikçiye avans ödemesi yapılacaksa tedarikçinin son iki yıllık bilanço bilgileri incelenmeli ve teminat mektubu talep edilmelidir."
+  },
+  {
+    "id": "DOK-03",
+    "baslik": "Avans ve Ön Ödeme Politikası",
+    "departman": "Finans",
+    "konular": ["avans", "tedarikçi", "risk", "bütçe"],
+    "metin": "Tedarikçilere yapılacak avans ödemeleri sözleşme bedelinin yüzde 30'unu aşamaz. 250.000 TL üzerindeki her avans için tedarikçiden avans tutarı kadar banka teminat mektubu alınır. Avans talepleri Finans Müdürü tarafından incelenir ve satın alma onay matrisine göre ilgili yetkili tarafından onaylanır. Daha önce teslimat gecikmesi yaşanmış tedarikçilere avans verilmez. Çalışan iş avansları ise seyahat ve temsil giderleri için kullanılır, 30 gün içinde kapatılmalıdır; kapatılmayan avanslar bordrodan mahsup edilir."
+  },
+  {
+    "id": "DOK-04",
+    "baslik": "Yurt İçi ve Yurt Dışı Seyahat Politikası",
+    "departman": "İnsan Kaynakları",
+    "konular": ["seyahat", "avans", "harcama"],
+    "metin": "İş seyahatleri seyahat portalı üzerinden en az 7 gün önceden planlanır. Yurt içi uçuşlarda ekonomi sınıfı kullanılır. Yurt dışı uçuşlarda 6 saati aşan seyahatlerde direktör ve üzeri unvanlar için business sınıfı kullanılabilir. Konaklama limiti yurt içinde gecelik 4.000 TL, yurt dışında gecelik 200 Euro'dur. Günlük harcırah yurt içi için 1.200 TL, yurt dışı için 60 Euro'dur. Müşteri ziyaretleri kapsamındaki seyahatlerde CRM'de ilgili fırsat kaydı bulunmalıdır. Harcamalar seyahat dönüşünden sonra 10 gün içinde fişleriyle birlikte beyan edilir."
+  },
+  {
+    "id": "DOK-05",
+    "baslik": "Bilgi Güvenliği Politikası",
+    "departman": "Bilgi Teknolojileri",
+    "konular": ["bilgi güvenliği", "erişim yönetimi", "risk"],
+    "metin": "Tüm sistemlere erişim 'en az yetki' prensibine göre verilir. Kurumsal uygulamalara erişimde çok faktörlü kimlik doğrulama zorunludur. Parolalar en az 12 karakter olmalı ve 180 günde bir değiştirilmelidir. Kurumsal veriler yalnızca onaylı bulut servislerinde saklanabilir. Üretken yapay zeka araçlarına gizli veya kişisel veri girilmesi yasaktır; yalnızca BT tarafından onaylanmış kurumsal yapay zeka platformları kullanılabilir. Güvenlik olayları 1 saat içinde guvenlik@atlas.example adresine bildirilmelidir. Yılda bir kez sızma testi yapılır ve bulgular 90 gün içinde kapatılır."
+  },
+  {
+    "id": "DOK-06",
+    "baslik": "Veri Sınıflandırma ve KVKK Uyum Rehberi",
+    "departman": "Hukuk",
+    "konular": ["veri sınıflandırma", "KVKK", "bilgi güvenliği"],
+    "metin": "Şirket verileri dört sınıfa ayrılır: Genel, Kurum İçi, Gizli ve Çok Gizli. Müşteri kişisel verileri en az 'Gizli' sınıfındadır. Gizli veriler e-posta ile yalnızca şifreli olarak paylaşılabilir. Kişisel veriler yurt dışına aktarılmadan önce Hukuk departmanının onayı alınmalıdır. Yapay zeka projelerinde kişisel veri kullanılacaksa veri maskeleme veya anonimleştirme uygulanır ve proje KVKK etki değerlendirmesinden geçer. Veri saklama süreleri dolan kayıtlar 6 ayda bir imha edilir ve imha tutanağı hazırlanır."
+  },
+  {
+    "id": "DOK-07",
+    "baslik": "Yazılım Lisans ve SaaS Abonelik Yönetimi",
+    "departman": "Bilgi Teknolojileri",
+    "konular": ["lisans", "satın alma", "bilgi güvenliği", "bütçe"],
+    "metin": "Tüm yazılım ve SaaS abonelikleri BT departmanı üzerinden satın alınır; departmanların kendi kredi kartlarıyla abonelik başlatması yasaktır. Yeni bir SaaS ürünü için BT güvenlik değerlendirmesi ve tedarikçi değerlendirmesi birlikte yapılır. Lisans kullanım oranı üç ay üst üste yüzde 60'ın altında kalan abonelikler küçültülür. Yıllık abonelik bedeli 500.000 TL'yi aşan yazılımlar için en az iki alternatif ürün karşılaştırılır. Yapay zeka API kullanımları için aylık bütçe limiti tanımlanır ve token tüketimi BT tarafından izlenir."
+  },
+  {
+    "id": "DOK-08",
+    "baslik": "Yıllık Bütçe Planlama Süreci",
+    "departman": "Finans",
+    "konular": ["bütçe", "proje onayı", "harcama"],
+    "metin": "Yıllık bütçe çalışması her yıl Eylül ayında başlar ve Kasım sonunda yönetim kurulu onayıyla tamamlanır. Departmanlar operasyonel giderleri (OPEX) ve yatırım harcamalarını (CAPEX) ayrı ayrı planlar. Bütçe dışı harcama talepleri yıl içinde 'revize bütçe' sürecinde değerlendirilir ve Finans Müdürü onayı gerektirir. Çeyrek sonlarında bütçe gerçekleşme raporu hazırlanır; yüzde 10'dan fazla sapma gösteren kalemler için açıklama istenir. Yapay zeka ve otomasyon yatırımlarında geri dönüş süresi (ROI) analizi zorunludur."
+  },
+  {
+    "id": "DOK-09",
+    "baslik": "Proje Onay ve Yatırım Değerlendirme Süreci",
+    "departman": "Strateji",
+    "konular": ["proje onayı", "bütçe", "risk"],
+    "metin": "1.000.000 TL üzerindeki tüm projeler yatırım komitesine sunulur. Proje önerisinde iş gerekçesi, maliyet, beklenen fayda, geri dönüş süresi, riskler ve alternatifler yer almalıdır. Geri dönüş süresi 24 ayı aşan projeler ancak stratejik öncelik kapsamındaysa onaylanır. Komite kararları 'onay', 'koşullu onay', 'ret' veya 'ek bilgi talebi' olarak verilir. Onaylanan projeler 3 ayda bir ilerleme raporu sunar; bütçe aşımı yüzde 15'i geçerse proje yeniden komiteye gelir."
+  },
+  {
+    "id": "DOK-10",
+    "baslik": "Müşteri İade ve İndirim Politikası",
+    "departman": "Satış",
+    "konular": ["müşteri", "iade", "indirim", "CRM"],
+    "metin": "Müşteriler ürün tesliminden itibaren 14 gün içinde iade talebinde bulunabilir. Kurumsal lisans satışlarında iade yerine kullanılmayan dönem için kredi notu verilir. Satış temsilcileri liste fiyatı üzerinden en fazla yüzde 10 indirim yapabilir; yüzde 10 ile yüzde 25 arası indirimler Satış Müdürü, yüzde 25 üzeri indirimler Satış Direktörü onayı gerektirir. Tüm indirim ve iade kararları CRM'deki fırsat kaydına gerekçesiyle girilir. Yıllık cirosu 5.000.000 TL üzerindeki stratejik müşteriler için özel fiyat anlaşması yapılabilir."
+  },
+  {
+    "id": "DOK-11",
+    "baslik": "Atlas CRM Kullanım SSS",
+    "departman": "Satış",
+    "konular": ["CRM", "müşteri", "satış"],
+    "metin": "Soru: Yeni fırsat nasıl açılır? Cevap: Müşteri kartında 'Fırsat Ekle' butonu kullanılır; tahmini tutar ve kapanış tarihi zorunludur. Soru: Fırsat aşamaları nelerdir? Cevap: İlk temas, ihtiyaç analizi, teklif, pazarlık, kazanıldı/kaybedildi. Soru: Teklif onayı nasıl alınır? Cevap: Teklif aşamasında indirim oranı yüzde 10'u geçiyorsa sistem otomatik olarak Satış Müdürüne onay görevi oluşturur. Soru: Yapay zeka önerileri nedir? Cevap: Atlas CRM, fırsatın kazanılma olasılığını tahmin eder ve bir sonraki en iyi aksiyonu önerir; öneriler karar destek amaçlıdır, nihai karar satış temsilcisine aittir."
+  },
+  {
+    "id": "DOK-12",
+    "baslik": "Uzaktan ve Hibrit Çalışma Yönergesi",
+    "departman": "İnsan Kaynakları",
+    "konular": ["hibrit çalışma", "bilgi güvenliği", "harcama"],
+    "metin": "Çalışanlar haftada en fazla 3 gün uzaktan çalışabilir; Salı ve Perşembe günleri ofis günüdür. Uzaktan çalışmada kurumsal VPN bağlantısı zorunludur ve halka açık ağlarda kurumsal sistemlere VPN'siz bağlanılamaz. Ev ofis donanım desteği yılda bir kez 5.000 TL'ye kadar karşılanır ve harcama portalı üzerinden fişle beyan edilir. Gizli sınıfındaki belgeler evde çıktı alınarak saklanamaz. Uzaktan çalışma düzeni yöneticinin onayıyla kişiye özel olarak değiştirilebilir."
+  }
+]

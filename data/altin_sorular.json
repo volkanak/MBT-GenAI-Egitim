@@ -1,0 +1,7 @@
+[
+  {"soru": "300.000 TL'lik bir satın alma talebini kimler onaylamalı?", "beklenen": "Departman müdürü ve Finans Müdürü onaylamalıdır (50.000-500.000 TL aralığı)."},
+  {"soru": "Tedarikçiye en fazla ne kadar avans verilebilir?", "beklenen": "Sözleşme bedelinin en fazla yüzde 30'u; 250.000 TL üzeri avanslarda teminat mektubu gerekir."},
+  {"soru": "Yurt dışında gecelik konaklama limiti nedir?", "beklenen": "Gecelik 200 Euro."},
+  {"soru": "Üretken yapay zeka araçlarına müşteri verisi girebilir miyim?", "beklenen": "Hayır. Gizli veya kişisel veri girilmesi yasaktır; yalnızca BT onaylı kurumsal platformlar kullanılabilir."},
+  {"soru": "Satış temsilcisi kendi yetkisiyle yüzde kaç indirim yapabilir?", "beklenen": "En fazla yüzde 10."}
+]

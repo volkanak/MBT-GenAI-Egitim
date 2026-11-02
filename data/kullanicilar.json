@@ -1,0 +1,23 @@
+[
+  {
+    "id": "U-AYSE",
+    "ad": "Ayşe Yılmaz",
+    "unvan": "Finans Müdürü",
+    "departman": "Finans",
+    "ilgi_alanlari": ["bütçe", "avans", "satın alma", "onay yetkisi"]
+  },
+  {
+    "id": "U-MEHMET",
+    "ad": "Mehmet Kaya",
+    "unvan": "Bilgi Güvenliği Uzmanı",
+    "departman": "Bilgi Teknolojileri",
+    "ilgi_alanlari": ["bilgi güvenliği", "lisans", "veri sınıflandırma", "erişim yönetimi"]
+  },
+  {
+    "id": "U-ZEYNEP",
+    "ad": "Zeynep Demir",
+    "unvan": "Satış Yöneticisi",
+    "departman": "Satış",
+    "ilgi_alanlari": ["müşteri", "CRM", "indirim", "seyahat"]
+  }
+]

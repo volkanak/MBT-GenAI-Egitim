@@ -1,0 +1,13 @@
+# Eğitimde test edilen sürümler (Kasım 2026). Prova sonrası değiştirmeyin.
+anthropic==2.3.0
+langchain==1.4.7
+langchain-anthropic==1.7.7
+langchain-text-splitters
+langgraph==1.2.19
+langchain-mcp-adapters==0.3.2
+mcp
+chromadb==1.5.9
+sentence-transformers
+networkx
+matplotlib
+pandas
